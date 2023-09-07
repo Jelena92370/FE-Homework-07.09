@@ -1,0 +1,64 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+  .changeButton {
+    margin: 50px;
+    width: 200px;
+  }
+  .square {
+    margin: 50px;
+    width: 200px;
+    height: 200px;
+    background-color: red;
+}
+
+
+.change2 {
+    margin: 50px;
+    width: 200px;
+  }
+  .square2 {
+    margin: 50px;
+    width: 200px;
+    height: 200px;
+    background-color: rgb(245, 114, 135);
+}
+.change3 {
+    margin: 50px;
+    width: 150px;
+  }
+  .square3 {
+    margin: 50px;
+    width: 150px;
+    height: 150px;
+    background-color: rgb(140, 114, 245);
+}
+
+.createPrg {
+    margin: 50px;
+    width: 150px;
+  }
+  .root {
+    margin: 50px;
+    width: 250px;
+    height: 150px;
+    }
+.createPrg2 {
+    margin: 50px;
+    width: 150px;
+  }
+  .root2 {
+    margin: 50px;
+    width: 250px;
+    height: 150px;
+    }
+  .blue {
+    color: blue;
+  }
+
+  .green {
+    color: forestgreen;
+  }
